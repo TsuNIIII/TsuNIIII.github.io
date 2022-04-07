@@ -165,10 +165,20 @@ header .btn-mobile{
     font-size: 2rem;
     text-align: left;
 }
-#papers .container .title p{
+#papers .container .title a{
     color: #fff;
     width: 500px;
     margin-top: 30px;
+}
+
+#papers .container .title button{
+    color: #fff;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    width:600px;
+    margin-top: 15px;
+    background-color: transparent;
 }
 
 /*===== Contact =====*/
